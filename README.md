@@ -51,4 +51,6 @@ Double-click StayAlive.exe to run the game.
 
 Note: If Windows displays a blue "Windows protected your PC" warning, click "More info" and then click "Run anyway" to launch the game.
 
+Download Link
+https://talha-aydgn.itch.io/stay-alive
 HAVE FUN!!!
