@@ -53,4 +53,20 @@ Note: If Windows displays a blue "Windows protected your PC" warning, click "Mor
 
 Download Link
 https://talha-aydgn.itch.io/stay-alive
+
+Screenshots:
+<img width="1920" height="1080" alt="Ekran Görüntüsü (314)" src="https://github.com/user-attachments/assets/fc211924-f80d-46d8-927c-59a54adffd06" />
+
+<img width="1920" height="1080" alt="Ekran Görüntüsü (315)" src="https://github.com/user-attachments/assets/bde13600-970f-4248-bb69-9bba161cdeb8" />
+
+<img width="1920" height="1080" alt="Ekran Görüntüsü (313)" src="https://github.com/user-attachments/assets/fa223f6a-9168-47e7-b567-00cb7cf4af72" />
+
+<img width="1920" height="1080" alt="Ekran Görüntüsü (312)" src="https://github.com/user-attachments/assets/4398a72b-3489-4e4a-b06c-ab95eb56e271" />
+
+<img width="1920" height="1080" alt="Ekran Görüntüsü (311)" src="https://github.com/user-attachments/assets/4db58acb-351c-4a29-a64e-e835688376b6" />
+
+<img width="1920" height="1080" alt="Ekran Görüntüsü (310)" src="https://github.com/user-attachments/assets/9659e9b6-dae3-474f-8be9-ca81cf5f59a4" />
+
+
+
 HAVE FUN!!!
