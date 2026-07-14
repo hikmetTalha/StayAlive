@@ -156,7 +156,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -251.2, y: 88.5}
+  m_AnchoredPosition: {x: -251.2, y: 112.6}
   m_SizeDelta: {x: 200, y: 50}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &338474224
@@ -179,31 +179,14 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'Stay Alive is a survival game in the FPS shooter genre.
-
-
-
-    In the
-    game, you have two people to protect: yourself and the "Sick Man," who cannot
-    move or escape.
-
-
-
-    Zombies come in waves, and your goal is to survive five
-    waves of zombies until the last one.
-
-
-
-    Shoot with the left mouse button.
-
-
-
-    Zombies
-    have no health. They won''t die unless you shoot them in the head. If you shoot
-    them in the body, they will stay in place for a while before continuing to attack.
-
-    Have
-    fun!'
+  m_text: "Stay Alive is a survival game in the FPS shooter genre.\r\n\r\nIn the
+    game, you have two people to protect: yourself and the \"Sick Man,\" who cannot
+    move or escape.\r\n\r\nZombies come in waves, and your goal is to survive five
+    waves of zombies until the last one.\r\n\r\nShoot with the left mouse button.\r\n\r\nZombies
+    have no health. They won't die unless you shoot them in the head. If you shoot
+    them in the body, they will stay in place for a while before continuing to attack.\r\n\r\nAs
+    your health decreases, you run slower, and after a while, you can't \r  \njump.\r\n\r\nHave
+    fun!"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -266,7 +249,7 @@ MonoBehaviour:
   m_VertexBufferAutoSizeReduction: 0
   m_useMaxVisibleDescender: 1
   m_pageToDisplay: 1
-  m_margin: {x: 0, y: 0, z: -166.17717, w: -236.61703}
+  m_margin: {x: -34.582535, y: 0, z: -228.93706, w: -242.2522}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
   m_hasFontAssetChanged: 0
